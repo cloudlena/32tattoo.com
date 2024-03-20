@@ -83,7 +83,6 @@ const members: Member[] = [
 	{
 		id: 'paddy',
 		name: 'Paddy',
-		subtitle: 'Studio Heinz',
 		styles: ['Traditional', 'Dotwork'],
 		portrait: paddy,
 		instagram: 'studioheinz',

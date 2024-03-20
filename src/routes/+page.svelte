@@ -20,10 +20,10 @@
 	</div>
 	<div class="grid md:grid-cols-2 gap-6">
 		<div class="flex justify-center">
-			<img src={birdTiger} alt="Bird Tiger" />
+			<img class="rounded-md" src={birdTiger} alt="Bird Tiger" />
 		</div>
 		<div class="flex justify-center">
-			<img src={dragon} alt="Dragon" />
+			<img class="rounded-md" src={dragon} alt="Dragon" />
 		</div>
 	</div>
 </section>
@@ -45,7 +45,7 @@
 	</h2>
 	<div class="grid md:grid-cols-2 items-center gap-4">
 		<div>
-			<img src={sign} alt="Sign" />
+			<img class="rounded-md" src={sign} alt="Sign" />
 		</div>
 		<div class="p-16">
 			<div class="mb-12">

@@ -10,7 +10,7 @@
 		<a class="hover:text-primary-700" href="https://www.facebook.com/32TATTOO/">Facebook</a>
 	</p>
 	<p>
-		© {year} 32Tattoo | created by
+		© {year} 32Tattoo | created with ♥ by
 		<a class="hover:text-primary-700" href="https://bespinian.io">bespinian</a>
 	</p>
 	<p></p>

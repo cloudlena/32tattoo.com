@@ -7,7 +7,7 @@
 	{#each members as member (member.id)}
 		<div class="grid md:grid-cols-2 gap-8">
 			<div class="w-full h-auto">
-				<img src={member.portrait} alt={member.name} />
+				<img class="rounded-md" src={member.portrait} alt={member.name} />
 			</div>
 			<div>
 				<h3 class="h3 font-bold mb-4">

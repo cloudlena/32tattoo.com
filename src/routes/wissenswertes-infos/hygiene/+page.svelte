@@ -1,6 +1,5 @@
 <script lang="ts">
 	import Title from '$lib/Title.svelte';
-	import eyeco from '$lib/images/hygiene/eyeco.png';
 	import cleaning from '$lib/images/hygiene/cleaning.png';
 	import needles from '$lib/images/hygiene/needles.png';
 	import colors from '$lib/images/hygiene/colors.png';
@@ -9,13 +8,11 @@
 
 <Title
 	title="Hygiene"
-	description="Unser Studio wird regelmässig vom Kantonalen Laboratorium kontrolliert und wir sind von der einzigen schweizweit anerkannten Kontrollstelle Eyeco zertifiziert."
+	description="Unser Studio wird regelmässig vom Kantonalen Laboratorium kontrolliert."
 />
 
 <section class="px-4 md:px-8">
 	<div class="max-w-3xl mx-auto flex flex-col py-16 gap-4">
-		<img src={eyeco} alt="EYECO" />
-
 		<p>
 			Wir arbeiten professionell und verwenden stets Einwegmaterial und Schutzhüllen. Griffstücke
 			und Nadelführungen aus Metall werden nach dem Gebrauch zur Aufbereitung in einem
@@ -25,8 +22,8 @@
 		</p>
 
 		<div class="grid md:grid-cols-2 gap-4">
-			<img src={cleaning} alt="Hygieneartikel" />
-			<img src={needles} alt="Nadeln" />
+			<img class="rounded-md" src={cleaning} alt="Hygieneartikel" />
+			<img class="rounded-md" src={needles} alt="Nadeln" />
 		</div>
 
 		<p>
@@ -36,8 +33,8 @@
 		</p>
 
 		<div class="grid md:grid-cols-2 gap-4">
-			<img src={colors} alt="Farben" />
-			<img src={tips} alt="Köpfe" />
+			<img class="rounded-md" src={colors} alt="Farben" />
+			<img class="rounded-md" src={tips} alt="Köpfe" />
 		</div>
 
 		<h2 class="h3 font-bold">Links</h2>
@@ -49,7 +46,6 @@
 					>https://www.vol.be.ch/vol/de/index/direktion/organisation/kl.html</a
 				>
 			</li>
-			<li>EYECO: <a class="anchor" href="https://www.eyeco.ch/">https://www.eyeco.ch/</a></li>
 		</ul>
 	</div>
 </section>

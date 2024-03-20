@@ -39,7 +39,7 @@
 		<div class="grid md:grid-cols-2 lg:grid-cols-3 gap-4">
 			{#each images as image (image.alt)}
 				<div class={image.wide ? 'md:col-span-2 lg:col-span-3' : ''}>
-					<img class="w-full" src={image.src} alt={image.alt} />
+					<img class="w-full rounded-md" src={image.src} alt={image.alt} />
 				</div>
 			{/each}
 		</div>

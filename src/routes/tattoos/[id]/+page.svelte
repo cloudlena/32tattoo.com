@@ -35,7 +35,7 @@
 <section class="px-4 md:px-8">
 	<div class="max-w-3xl mx-auto grid md:grid-cols-2 py-16">
 		<div>
-			<img src={data.member.portrait} alt={data.member.name} />
+			<img class="rounded-md" src={data.member.portrait} alt={data.member.name} />
 		</div>
 		<div class="p-8 flex flex-col gap-4">
 			<h2 class="h3 font-bold">Stile</h2>
@@ -70,7 +70,7 @@
 		<div class="grid md:grid-cols-2 lg:grid-cols-3 gap-4 items-center">
 			{#each data.member.gallery as image, i}
 				<div>
-					<img class="w-full" src={image} alt="{data.member.name} Bild {i + 1}" />
+					<img class="max-w-full rounded-md" src={image} alt="{data.member.name} Bild {i + 1}" />
 				</div>
 			{/each}
 		</div>
