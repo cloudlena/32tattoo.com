@@ -34,8 +34,8 @@
 		</p>
 
 		<div class="grid md:grid-cols-2 gap-4">
-			<img src={tuctuc} alt="TucTuc" />
-			<img src={beatman} alt="Beatman" />
+			<img class="rounded-md" src={tuctuc} alt="TucTuc" />
+			<img class="rounded-md" src={beatman} alt="Beatman" />
 		</div>
 
 		<p>
@@ -64,7 +64,7 @@
 			allem in Europa eine sehr wichtige Rolle, um dieses Erbe zu bewahren.
 		</p>
 
-		<img src={lars} alt="Lars" />
+		<img class="rounded-md" src={lars} alt="Lars" />
 
 		<p>
 			1999 ergänzte Lars das Team mit <a class="anchor" href="{base}/tattoos/andreas-schwertfeger"
@@ -89,11 +89,11 @@
 		</p>
 
 		<div class="grid md:grid-cols-2 gap-4">
-			<img class="md:col-span-2 w-full" src={downstairs} alt="Downstairs" />
-			<img src={chairs} alt="Stühle" />
-			<img src={wall} alt="Wand" />
-			<img src={mirror} alt="Spiegel" />
-			<img src={stools} alt="Barhocker" />
+			<img class="md:col-span-2 w-full rounded-md" src={downstairs} alt="Downstairs" />
+			<img class="rounded-md" src={chairs} alt="Stühle" />
+			<img class="rounded-md" src={wall} alt="Wand" />
+			<img class="rounded-md" src={mirror} alt="Spiegel" />
+			<img class="rounded-md" src={stools} alt="Barhocker" />
 		</div>
 	</div>
 </section>
