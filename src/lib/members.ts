@@ -1,6 +1,5 @@
 import andreas from '$lib/images/andreas.jpg';
 import toebu from '$lib/images/toebu.jpg';
-import paddy from '$lib/images/paddy.jpg';
 import alain from '$lib/images/alain.jpg';
 import fabian from '$lib/images/fabian.jpg';
 import jeff from '$lib/images/jeff.jpg';
@@ -81,27 +80,6 @@ const members: Member[] = [
 		gallery: []
 	},
 	{
-		id: 'paddy',
-		name: 'Paddy',
-		styles: ['Traditional', 'Dotwork'],
-		portrait: paddy,
-		instagram: 'studioheinz',
-		email: 'patwue.tattoo@gmail.com',
-		phone: '079 724 89 30',
-		cv: [
-			'2015 Matura mit Schwerpunktfach Bildnerischem Gestalten',
-			'2016-2017 Studium Fine Arts an der Hochschule der Künste Bern',
-			'2018-2019 erste Erfahrungen im Floating Art Tattoo Studio in Thun',
-			'Danach ein Jahr selbstständig in eigenem Studio',
-			'Seit anfang 2020 im 32 Tattoo Bern'
-		],
-		bio: [
-			'Paddy war während des Gymnasiums in einem Austauschjahr in den USA in Ann Arbor in Michigan. Die vielen lokalen Tattoo Shops haben ihr Interesse für American Traditional Tattoos geweckt, so dass sie sich dort mit 18 Jahren ihre ersten Tattoos stechen liess. Zurück in der Schweiz hat sie sich dann vor allem mit der realistischen Ölmalerei beschäftigt, um ein Portfolio für die Hochschule der Künste zusammenzustellen. Während des doch sehr theoretischen Kunststudiums wurde ihr bewusst, dass sie lieber praktisch arbeiten und tätowieren möchte.',
-			'Also hat sie ihr Studium abgebrochen und sich fortan dem Tätowieren gewidmet. Sie tätowiert am liebsten traditionelle Tattoos in ihrem sehr eigenen, ausdrucksstarken Stil der von klassischen farbigen Motiven bis hin zu modernen Interpretationen reicht, die nur mit schwarzen Linien und Flächen auskommen. Sehr gerne sticht sie auch Dotwork und Etching Style Tattoos.'
-		],
-		gallery: []
-	},
-	{
 		id: 'taru',
 		name: 'Taru',
 		styles: ['Ornamental', 'Traditional'],
@@ -114,7 +92,8 @@ const members: Member[] = [
 			'2004-2008 freie künstlerische Arbeit',
 			'2008-2018 Arbeit als Steinbildhauerin in Anstellung',
 			'2015-2017 Ausbildung zur Yogalehrerin',
-			'ab 2021 Ausbildung zur Tätowiererin im 32Tattoo Bern'
+			'2021-2024 Ausbildung zur Tätowiererin im 32Tattoo Bern',
+			'ab Herbst 2024 Tätowiererin im 32Tattoo Bern'
 		],
 		gallery: []
 	},

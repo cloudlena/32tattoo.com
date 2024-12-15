@@ -80,8 +80,7 @@
 				class="anchor"
 				href="{base}/tattoos/toebu">Töbu</a
 			>
-			und Jan machten ihre Lehre im 2007 und im 2009. Aktuell arbeitet ausserdem
-			<a class="anchor" href="{base}/tattoos/paddy">Paddy</a> im 32 Tattoo.
+			und Jan machten ihre Lehre im 2007 und im 2009.
 		</p>
 		<p>
 			Langjährige Mitarbeiter waren zudem Vincent, der heute in den USA arbeitet und Dävu, der seine
