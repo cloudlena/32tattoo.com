@@ -17,7 +17,7 @@
 				<h2 class="h2 font-bold mb-4">Studio</h2>
 				<p><a class="anchor" href="tel:+41313110067">031 311 00 67</a></p>
 				<p class="mb-4">
-					<a class="anchor" href="mailto:32tattoo@bluewin.ch">32tattoo@bluewin.ch</a>
+					<a class="anchor" href="mailto:32tattoobern@gmail.com">32tattoobern@gmail.com</a>
 				</p>
 				<p>Rathausgasse 24</p>
 				<p>3011 Bern</p>

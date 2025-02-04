@@ -33,7 +33,7 @@ const members: Member[] = [
 		styles: ['Traditional (Europäisch-Amerikanisch)', 'Allrounder'],
 		portrait: andreas,
 		instagram: 'andreasschwertfeger',
-		email: '32tattoo@bluewin.ch',
+		email: '32tattoobern@gmail.com',
 		phone: '079 330 10 39',
 		cv: [
 			'1994 Lehrabschluss als Schreiner',
