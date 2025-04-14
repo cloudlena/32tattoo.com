@@ -2,7 +2,6 @@ import andreas from '$lib/images/andreas.jpg';
 import toebu from '$lib/images/toebu.jpg';
 import alain from '$lib/images/alain.jpg';
 import fabian from '$lib/images/fabian.jpg';
-import jeff from '$lib/images/jeff.jpg';
 import taru from '$lib/images/taru.jpg';
 import vanessa from '$lib/images/vanessa.jpg';
 const gallery = Object.values(
@@ -117,15 +116,6 @@ const members: Member[] = [
 		bio: [
 			'Mein Name ist Alain Roth. Geboren am 7.12.1989 und aufgewachsen in einem kleinen Dorf namens Rohrbach. Durch die sehr lebhaften Erinnerungen meiner Kindheit hatte ich schon viele Aufklebe-Tattoos an mir und war sehr schnell begeistert durch diesen Kindheitseffekt von Körperkunst. So wie z. B. Schmetterlinge auf dem Arm oder ein Einhorn auf dem Bauch. Und das erste Mal mit einem richtigen Tattoo kam ich durch meinen Cousin in Berührung. Er hatte so einen richtig stylischen Totenkopf mit violetten Highlights auf seinem Oberarm tätowiert. Als Kind dachte ich natürlich, dass das bestimmt nicht echt ist und probierte es halt bei ihm abzuwaschen… Doch erfolglos… Und da kam ich natürlich nicht mehr aus dem Staunen. Aber, als das natürlich noch in weiter Ferne war, musste ich halt abwarten bis zu meinem 18. Geburtstag. Kaum 18 und schon lief ich zu einem Tätowierer namens Tom in seinem Studio in Langenthal. Ab diesem Zeitpunkt wusste ich, es war bestimmt nicht das Letzte. Sobald ich natürlich von zu Hause ausgezogen bin, machte ich mich halt dann mal ein paar Jahre später selber ans Tätowieren ran. Wie jeder Anfänger hatte ich natürlich keine Ahnung und tätowierte mich halt zuerst selbst. Aber ganz schnell dann auch mal Kollegen von mir. Ab dann wusste ich, ich muss das erlernen und wollte richtig gut darin werden, und so entschloss ich mich halt herumzufragen, um mehr davon zu erfahren, doch leider erfolglos, weil halt die Tattooszene ein enges Bündnis ist und man nicht einfach dazukommt. Deswegen liess ich mich immer mehr tätowieren und achtete auf die Materialien, die sie verwendeten, und die genauen Abläufe des Aufbaus bis hin zum Tattoo. Ich arbeite dann von zu Hause aus für etwa 1 Jahr, bis ich dann mal von einem Studio in Bern angefragt wurde. Ich war zu diesem Zeitpunkt bei den Jungs von Outlawz für etwa 4 Jahre. Es war eine wundervolle Zeit, mit sehr vielen neuen Eindrücken in meinem Leben und ich lebte erst mal einen kleinen Traum. Doch irgendwie war mir das noch zu wenig, ich wollte mehr wissen, als einfach nur loszutätowieren. Als ich natürlich in Bern meinen Fuss gesetzt habe und die Tattooszene langsam kannte, fragte mich halt dann ein sehr guter Freund an, namens Tobias, der im 32 Tattoo Studio arbeitete. Ich willigte direkt zu, weil die Jungs einfach wissen, was sie machen.  Ich erlernte dann schnell das Zeichen von Flashes aus alten guten Zeiten, mit Pinsel, wie man eine Maschine aufbaut und Bücher über Jahrzehnte Wissen. Ich wusste schnell, dass ich zu Hause angekommen war. Ich ging bei ihnen 2 Jahre durch die Hölle und wurde gefördert, wo es nur geht. Dank den Jungs bin ich heute, was ich heute bin.'
 		],
-		gallery: []
-	},
-	{
-		id: 'jeff',
-		name: 'Jeffrey S',
-		styles: ['Traditional', 'Allrounder'],
-		portrait: jeff,
-		instagram: 'jstattooing',
-		phone: '079 940 94 42',
 		gallery: []
 	}
 ];
